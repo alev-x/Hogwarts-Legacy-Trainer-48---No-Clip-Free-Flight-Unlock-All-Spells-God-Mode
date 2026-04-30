@@ -4,7 +4,7 @@
 
 <div align="center">
  
-  <img width="1171" height="754" alt="image" src="https://github.com/user-attachments/assets/b7a9136b-5985-4aa8-86da-f6d8bf8a0398" />" 
+  <img width="1171" height="754" alt="image" src="https://github.com/user-attachments/assets/b7a9136b-5985-4aa8-86da-f6d8bf8a0398" />
 
   **Unleash the True Magic Within You**
 
