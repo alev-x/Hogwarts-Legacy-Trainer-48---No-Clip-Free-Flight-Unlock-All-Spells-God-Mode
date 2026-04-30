@@ -1,3 +1,5 @@
+<div align="center">
+
 # ✨ Hogwarts Legacy Ultimate Trainer ✨
 
 <div align="center">
