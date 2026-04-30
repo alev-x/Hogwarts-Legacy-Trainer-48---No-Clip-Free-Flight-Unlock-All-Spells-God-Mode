@@ -1,8 +1,8 @@
 <div align="center">
  
-  <img src="https://i.imgur.com/your-logo.png" width="140" alt="Hogwarts Legacy Trainer">
- 
-  # ✨ Hogwarts Legacy Ultimate Trainer ✨
+  <img src="<img width="1171" height="754" alt="image" src="https://github.com/user-attachments/assets/b7a9136b-5985-4aa8-86da-f6d8bf8a0398" />" width="140" alt="Hogwarts Legacy Trainer">
+
+# ✨ Hogwarts Legacy Ultimate Trainer ✨
 
   **Unleash the True Magic Within You**
 
